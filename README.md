@@ -12,3 +12,11 @@ To run:
 ```bash
 ansible-playbook -i inventory.yaml -u root -k root.yaml
 ```
+
+#### Playbook bootstrap.yaml
+Updates the system, installes packages.
+
+To run:
+```bash
+ansible-playbook -i inventory.yaml bootstrap.yaml
+```

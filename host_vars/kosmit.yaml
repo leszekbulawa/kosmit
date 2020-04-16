@@ -1,0 +1,7 @@
+packages:
+  - curl
+  - vim
+  - htop
+  - git
+  - zsh
+  - python3-pip
